@@ -1,6 +1,7 @@
 # Neural-network-models-without-using-wrappers
 
-![image](https://github.com/hanfei1986/Neural-network-models-without-using-wrappers/assets/59255164/efa19f74-b6f1-48fc-89ee-bd213938fae2)
+![image](https://github.com/hanfei1986/Neural-network-models-without-using-wrappers/assets/59255164/262961fe-2dfe-4639-8ea4-adc6c0aa8072)
 
-![image](https://github.com/hanfei1986/Neural-network-models-without-using-wrappers/assets/59255164/fc7a06f1-df8f-4112-bcca-7ec8e23a0f4f)
+![image](https://github.com/hanfei1986/Neural-network-models-without-using-wrappers/assets/59255164/89013db6-277e-4483-a9c5-1edcc6e01131)
+
 
